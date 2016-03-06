@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.11",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Paper2DDemo",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
